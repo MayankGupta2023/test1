@@ -26,10 +26,10 @@ export default function Home() {
       <img className="hidden absolute left-20" src={phn1.src} />
       <img className="hidden absolute right-2 lg:inline lg:w-64 lg:h-40 xl:w-72 xl:right-28 2xl:right-40" src={phn2.src} />
       <img className="hidden absolute left-2 lg:inline lg:w-64 lg:h-40 xl:w-72 xl:left-28 2xl:left-40" src={phn3.src} />
-      <img className="hidden absolute min-[400px]:left-10  min-[400px]:top-0  min-[400px]:h-40 min-[400px]:w-40 min-[400px]:inline md:top-20 xl:w-72 xl:h-44 lg:top-8" src={phn4.src} />
-      <img className="hidden absolute min-[400px]:right-10 min-[400px]:top-0 min-[400px]:h-40 min-[400px]:w-40 min-[400px]:inline md:top-20 xl:w-72 xl:h-44 lg:top-8" src={phn5.src} />
-      <img className="absolute bottom-0 h-40 w-64 min-[400px]:right-10 min-[400px]:w-40 md:bottom-20 xl:w-72 xl:h-44 lg:bottom-8" src={phn6.src} />
-      <img className="absolute bottom-0 h-40 w-64 min-[400px]:left-10 min-[400px]:w-40  md:bottom-20 xl:w-72 xl:h-44 lg:bottom-8" src={phn7.src} />
+      <img className="hidden absolute min-[420px]:left-10  min-[420px]:top-0  min-[420px]:h-40 min-[420px]:w-40 min-[420px]:inline md:top-20 xl:w-72 xl:h-44 lg:top-8" src={phn4.src} />
+      <img className="hidden absolute min-[420px]:right-10 min-[420px]:top-0 min-[420px]:h-40 min-[420px]:w-40 min-[420px]:inline md:top-20 xl:w-72 xl:h-44 lg:top-8" src={phn5.src} />
+      <img className="absolute bottom-0 h-40 w-64 min-[420px]:right-10 min-[420px]:w-40 md:bottom-20 xl:w-72 xl:h-44 lg:bottom-8" src={phn6.src} />
+      <img className="absolute bottom-0 h-40 w-64 min-[420px]:left-10 min-[420px]:w-40  md:bottom-20 xl:w-72 xl:h-44 lg:bottom-8" src={phn7.src} />
     </div >
   );
 }
